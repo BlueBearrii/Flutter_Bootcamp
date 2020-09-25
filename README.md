@@ -1,4 +1,4 @@
 # Flutter course
-Learning flutter from udemy 
-##  Contents
+Learning flutter from udemy 🚀
+## 🍀 Contents
 soon
