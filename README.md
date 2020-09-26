@@ -1,4 +1,7 @@
 # Flutter course
 Learning flutter from udemy 🚀
-## 🍀 Contents
+## 🍀 Start
 Start on 1 October, soon
+
+## 💎 Contents
+✔️ Installing flutter
